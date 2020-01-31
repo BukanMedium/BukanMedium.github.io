@@ -22,5 +22,5 @@ Aku dapat melangkah lebih jauh<br />
 Dari delapan belas aku<br />
 Yang telah lebih dulu melangkah<br />
 
-Sep 4, 2018 6:23:20 AM.
+Sep 4, 2018 6:23:20 AM.<br />
 Aku, 19 tahun.
