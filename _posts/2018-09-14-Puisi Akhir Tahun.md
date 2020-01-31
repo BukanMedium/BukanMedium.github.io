@@ -10,7 +10,7 @@ featured: false
 hidden: false
 ---
 
-Aku bersyukur__
+Aku bersyukur <br\>
 Aku berbeda#
 Aku tidak seperti mereka#
 Tiga ratus enam puluh empat aku di hari kemarin
