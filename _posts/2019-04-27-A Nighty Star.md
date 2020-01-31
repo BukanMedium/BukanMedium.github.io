@@ -4,8 +4,8 @@ title:  "A Nighty Star"
 author: Shlhnj
 categories: [ Art, Stories, Toughts, "?" ]
 tags: []
-image: assets/images/Pencuripandang.jpg
-description: "Untuk semua orang yang suka mencuri pandang"
+image: assets/images/Nightystar.jpg
+description: "A cold damp night on an insomniac city"
 featured: false
 hidden: false
 ---
