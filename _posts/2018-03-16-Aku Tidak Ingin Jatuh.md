@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Pencuri Pandang"
+title:  "Aku Tidak Ingin Jatuh"
 author: Shlhnj
-categories: [ Art, Stories ]
+categories: [ Art, Poem ]
 tags: []
-image: assets/images/Pencuripandang.jpg
-description: "Untuk semua orang yang suka mencuri pandang"
+image: assets/images/Tidakinginjatuh.jpg
+description: "Gamau jatoooooh"
 featured: false
 hidden: false
 ---
