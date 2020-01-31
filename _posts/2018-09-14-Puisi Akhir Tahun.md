@@ -10,17 +10,17 @@ featured: false
 hidden: false
 ---
 
-Aku bersyukur <br\>
-Aku berbeda#
-Aku tidak seperti mereka#
-Tiga ratus enam puluh empat aku di hari kemarin
-Aku bersyukur
-Aku dapat belajar dari mereka
-Dua belas aku di bulan lalu
-Aku bersyukur
-Aku dapat melangkah lebih jauh
-Dari delapan belas aku
-Yang telah lebih dulu melangkah
+Aku bersyukur<br />
+Aku berbeda<br />
+Aku tidak seperti mereka<br />
+Tiga ratus enam puluh empat aku di hari kemarin<br />
+Aku bersyukur<br />
+Aku dapat belajar dari mereka<br />
+Dua belas aku di bulan lalu<br />
+Aku bersyukur<br />
+Aku dapat melangkah lebih jauh<br />
+Dari delapan belas aku<br />
+Yang telah lebih dulu melangkah<br />
 
 Sep 4, 2018 6:23:20 AM.
 Aku, 19 tahun.
