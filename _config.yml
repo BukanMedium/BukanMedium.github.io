@@ -1,7 +1,7 @@
 # Site
-name: "BukanMedium!"
+name: "Bukan Medium!"
 title: "Ini Judul"
-description: "Tulisan random yang sayang kalau ditelan waktu"
+description: "Mbangane gabut"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: '/tesmediumishblog'
@@ -16,7 +16,7 @@ authors:
   Shlhnj:
     name: Shlhnj
     display_name: Shlhnj
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    gravatar: 395b395474111de544b3b7352b325605
     email: shulhanj@gmail.com
     web: Bukanmedium.wixsite.com/blog
     twitter: https://twitter.com/Etcdanlainlain
