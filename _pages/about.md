@@ -14,11 +14,4 @@ comments: false
 <h4>Urip wis about, rasah tambah di about-abouti</h4>
 
 
-</div>
 
-<div class="col-md-4">
-
-
-</div>
-</div>
-</div>
