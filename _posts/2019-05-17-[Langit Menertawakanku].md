@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Pencuri Pandang"
+title:  "[Langit Menertawakanku]"
 author: Shlhnj
-categories: [ Art, Stories ]
+categories: [ Art, Poem ]
 tags: []
-image: assets/images/Pencuripandang.jpg
+image: assets/images/Langitmenertawakanku.jpg
 description: "Untuk semua orang yang suka mencuri pandang"
 featured: false
 hidden: false
