@@ -10,9 +10,9 @@ featured: false
 hidden: false
 ---
 
-Aku bersyukur
-Aku berbeda
-Aku tidak seperti mereka
+Aku bersyukur#
+Aku berbeda#
+Aku tidak seperti mereka#
 Tiga ratus enam puluh empat aku di hari kemarin
 Aku bersyukur
 Aku dapat belajar dari mereka
