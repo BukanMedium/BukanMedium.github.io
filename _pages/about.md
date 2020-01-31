@@ -11,7 +11,7 @@ comments: false
 <p> Ngopo ndadak about-about nek ana sing enteng? </p>
 
 <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/ABout.png" alt="About" /></p>
-<h4>Urip wis about, rasah tambah di abou-abouti</h4>
+<h4>Urip wis about, rasah tambah di about-abouti</h4>
 
 
 </div>
