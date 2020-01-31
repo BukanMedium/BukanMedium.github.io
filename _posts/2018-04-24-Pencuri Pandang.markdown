@@ -11,7 +11,8 @@ hidden: false
 rating: 4.5
 ---
 
-Fiat justicia ruat caleum!
+***Fiat justicia ruat caleum!***
+
 Hukum harus ditegakkan walau langit runtuh. Setiap orang harus tundukbpada hukum, tidak terkecuali oleh siapapun, termasuk para pencuri pandang.
 
 Selama ini para pencuri pandang tidak mendapat hukuman yang layak. Mereka dibiarkan bebas begitu saja. Bahkan saat mereka sudah tertangkap basah. Masalahnya adalah, orang yang menangkap basah pencuri pandang tidak berani bahkan hanya untuk menegurnya, apalagi melaporkannya ke polisi. Masalah yang kedua, manusia sampai saat ini masih belum menemukan cara untuk melindungi diri dari para pencuri pandang.
