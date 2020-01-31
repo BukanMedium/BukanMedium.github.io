@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Pencuri Pandang"
+title:  "A Nighty Star"
 author: Shlhnj
 categories: [ Art, Stories ]
 tags: []
