@@ -12,19 +12,19 @@ hidden: false
 
 Asu menggonggong, bajingan berlalu
 
-Lihatlah diujung jalan
-Ada seorang bajingan!
-Dengan gerobak penuh beban
+Lihatlah diujung jalan<br>
+Ada seorang bajingan!<br>
+Dengan gerobak penuh beban<br>
 
-Lihatlah kawan!
-Mata duitan
-Harta kekayaan
-Hanya dipedulikan
+Lihatlah kawan!<br>
+Mata duitan<br>
+Harta kekayaan<br>
+Hanya dipedulikan<br>
+<br>
+<br>
+<br>
+Dengarlah itu<br>
+Gonggongan asu<br>
 
-
-
-Dengarlah itu
-Gonggongan asu
-
-Biarkan saja
-Uangku lebih berharga
+Biarkan saja<br>
+Uangku lebih berharga<br>
