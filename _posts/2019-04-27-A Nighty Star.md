@@ -2,7 +2,7 @@
 layout: post
 title:  "A Nighty Star"
 author: Shlhnj
-categories: [ Art, Stories, Thoughts, "?" ]
+categories: [ Art, Thoughts, "?" ]
 tags: []
 image: assets/images/Nightystar.jpg
 description: "A cold damp night on an insomniac city"
