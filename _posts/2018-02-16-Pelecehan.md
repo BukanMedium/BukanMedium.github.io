@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "Pelecehan"
@@ -49,4 +48,6 @@ Malam itu, kuterobos tangisan langit, sambil kuinjak-injak tubuh saudarinya.
 
 
 -2/15/18/  19:15
+
+<br>
 ![Earth Now](/assets/images/Pelecehan2.jpg)
