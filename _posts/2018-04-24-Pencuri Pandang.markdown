@@ -4,7 +4,7 @@ title:  "Pencuri Pandang"
 author: Shlhnj
 categories: [ Art, Stories ]
 tags: [red, yellow]
-image: assets/images/11.jpg
+image: assets/images/Pencuri PAndang.jpg
 description: "Untuk semua orang yang suka mencuri pandang"
 featured: true
 hidden: false
