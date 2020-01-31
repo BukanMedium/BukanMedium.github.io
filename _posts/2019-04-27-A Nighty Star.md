@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "A Nighty Star"
+title:  "Pencuri Pandang"
 author: Shlhnj
-categories: [ Art, Thoughts, ? ]
+categories: [ Art, Stories ]
 tags: []
-image: assets/images/Nightystar.jpg
-description: "A cold damp night"
+image: assets/images/Pencuripandang.jpg
+description: "Untuk semua orang yang suka mencuri pandang"
 featured: false
 hidden: false
 ---
