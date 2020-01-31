@@ -3,12 +3,11 @@ layout: post
 title:  "Pencuri Pandang"
 author: Shlhnj
 categories: [ Art, Stories ]
-tags: [red, yellow]
+tags: []
 image: assets/images/Pencuripandang.jpg
 description: "Untuk semua orang yang suka mencuri pandang"
-featured: true
+featured: false
 hidden: false
-rating: 4.5
 ---
 
 ***Fiat justicia ruat caleum!***
