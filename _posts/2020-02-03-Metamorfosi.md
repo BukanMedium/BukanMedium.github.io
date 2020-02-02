@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Book: Metamorfosish"
+author: Shlhnj
+categories: [ Review, Books Review ]
+tags: []
+image: assets/images/Metamorfosis.jpg
+description: "Berubah jadi coro"
+featured: false
+hidden: false
+rating: 3.5
+---
+
+Kumpulan cerita-cerita karangan Kafka. Penulisannya unik, absurd, gelap, penuh keputusasaan. Saking khasnya sampai-sampai diabadikan dalam kamus dengan kata Kafkaesque yang berarti berrnuansa Kafka.
+
