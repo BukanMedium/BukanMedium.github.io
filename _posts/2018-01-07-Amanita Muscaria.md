@@ -4,7 +4,7 @@ title:  "Amanita Muscaria"
 author: Shlhnj
 categories: [ Art, Poem, Boocheen ]
 tags: []
-image: assets/images/Amanita.jpg
+image: "http://tiny.cc/Amanita_jpg"
 description: "AMANITA MUSCARIA"
 featured: false
 hidden: false
