@@ -4,7 +4,7 @@ title:  "Mengusir Sepi"
 author: Shlhnj
 categories: [ Art, Stories ]
 tags: []
-image: assets/images/Mengusirsepi.jpg
+image: "http://tiny.cc/Sepi_jpg"
 description: "Apakah kamu salah satunya?"
 featured: false
 hidden: false
