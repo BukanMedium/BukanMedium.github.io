@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Book: Metamorfosish"
+title:  "Book: Metamorfosis"
 author: Shlhnj
 categories: [ Review, Books Review ]
 tags: []
