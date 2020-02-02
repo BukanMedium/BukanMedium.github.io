@@ -4,7 +4,7 @@ title:  "Man's Not Hot"
 author: Shlhnj
 categories: [ Art, Stories, Adaptation ]
 tags: []
-image: assets/images/bigshaq.jpg
+image: assets/images/Bigshaq.jpg
 description: "Skidikipapap and the puppu drrr dum"
 featured: false
 hidden: false
