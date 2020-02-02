@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Rating Game Don't Starve"
+title:  "Game: Don't Starve"
 author: Shlhnj
 categories: [ Review, Game review, ]
 tags: []
