@@ -4,7 +4,7 @@ title:  "Setan Bermata Tiga"
 author: Shlhnj
 categories: [ Art, Poem ]
 tags: []
-image: assets/images/Matatiga.jpg
+image: "http://tiny.cc/mata3_jpg"
 description: "Sekali-sekali lah bikin puisi tentang setan"
 featured: false
 hidden: false
