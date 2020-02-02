@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Rating Game Dwarf Fortress"
+title:  "Game: Dwarf Fortress"
 author: Shlhnj
 categories: [ Review, Game review, ]
 tags: []
