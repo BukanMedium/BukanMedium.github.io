@@ -8,7 +8,7 @@ image: assets/images/Bumimanusia.jpg
 description: "Untuk semua orang yang suka mencuri pandang"
 featured: false
 hidden: false
-rating: 3,5
+rating: 3.5
 ---
 
 Tau sendirilah isinya gimana. Minke. Annelies. Nyai Ontosoroh. Mantap-mantap.
