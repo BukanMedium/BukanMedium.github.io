@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Rating Game Transistor"
+title:  "Game: Transistor"
 author: Shlhnj
 categories: [ Review, Game review, ]
 tags: []
