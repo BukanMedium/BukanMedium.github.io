@@ -11,5 +11,5 @@ hidden: false
 rating: 5
 ---
 
-Not your typical stealth game.
-![ I dont own this picture ]("https://github.com/BukanMedium/BukanMedium.github.io/assets/images/Invisibleincgraph.jpg")
+Not your typical stealth game. <br>
+![I dont own this picture](/assets/images/Invisibleincgraph.jpg)
