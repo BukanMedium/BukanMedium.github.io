@@ -4,7 +4,7 @@ title:  "Aku Hanya Punya Satu Hati"
 author: Shlhnj
 categories: [ Art, Poem, Boocheen ]
 tags: []
-image: "Tiny.cc/Heart_jpg"
+image: "https://Tiny.cc/Heart_jpg"
 description: "In the mood"
 featured: false
 hidden: false
