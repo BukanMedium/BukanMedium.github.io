@@ -5,8 +5,8 @@ author: Shlhnj
 categories: [ Review, Game review, ]
 tags: []
 image: assets/images/Transistor.jpg
-description: "TRansistor"
-featured: true
+description: "Transistor"
+featured: false
 hidden: false
 rating: 4
 ---
