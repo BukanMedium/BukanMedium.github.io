@@ -12,4 +12,4 @@ rating: 5
 ---
 
 Not your typical stealth game.
-![I dont own this picture]("assets/images/Invisibleincgraph.jpg")
+![ I dont own this picture ]("assets/images/Invisibleincgraph.jpg")
