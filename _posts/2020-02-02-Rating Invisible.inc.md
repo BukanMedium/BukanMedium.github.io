@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Rating Game Invisible.inc"
+title:  "Game: Invisible.inc"
 author: Shlhnj
 categories: [ Review, Game review, ]
 tags: []
