@@ -7,7 +7,7 @@ tags: []
 image: assets/images/Bumimanusia.jpg
 description: "Untuk semua orang yang suka mencuri pandang"
 featured: false
-hidden: false
+hidden: true
 rating: 3.5
 ---
 
