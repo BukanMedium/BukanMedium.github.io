@@ -14,7 +14,7 @@ hidden: false
 ![DS](/assets/images/Dontstarve.jpg) <br>
 {% include 5star.html %} <br>
 An advanced level minecraft. <br>
-![A dark survival game](assets/images/Dontstarvememe.jpg)
+![A dark survival game](/assets/images/Dontstarvememe.jpg)
 
 ---
 <br>
