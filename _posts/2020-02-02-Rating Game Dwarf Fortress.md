@@ -7,7 +7,7 @@ tags: []
 image: assets/images/DF.jpg
 description: "Fortress of the dwarf"
 featured: false
-hidden: false
+hidden: true
 rating: 5
 ---
 
