@@ -7,7 +7,7 @@ tags: []
 image: assets/images/Tokyoghoul.jpg
 description: "Kanekiiii"
 featured: false
-hidden: false
+hidden: true
 rating: 4.5
 ---
 
