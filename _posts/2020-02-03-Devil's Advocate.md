@@ -2,7 +2,7 @@
 layout: post
 title:  "Playing as a Devil's Advocate"
 author: Shlhnj
-categories: [ Thoughts, Not for U ]
+categories: [ Thoughts, Not for U, Self Reminder ]
 tags: []
 image: assets/images/Devilsadvocat.jpg
 description: "How good are you?"
