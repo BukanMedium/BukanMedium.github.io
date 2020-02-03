@@ -22,11 +22,8 @@ On a question 'Why is it necesaary to survive?'
 
 This is the most satisfiying answer: <br>
 <details>
-<summary>
-<a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Show all details</a>    
-</summary>
+  <summary>Click to expand!</summary>
  
-
 I think I am a kind of the "opposite" of you-(grin :)-I am a biologist who in the pursuit of the great questions of Life had to introduce himself to philosophy, so I have my own unique perspective on this question and can understand how you "feel" about it!
 
 If you ask my colleagues they will probably start to mumble things like it is evolution driving Life so it needs to survive to evolve, it is a "natural instinct" or even survival is the purpose of Life but as a man who had "been" in both worlds-philosophy and biology I want to tell you some personal experience-neither the biologists. not the philosophers can answer you arguably good. I think the reason is biologists don't understand philosophy and philosophers-biology. And what is even worse is they sometimes do not want to understand each other! But in order to answer your question-they simple must! This is why you get the attitude you get. If you ask a philosopher he will tell you survival is a matter of choice and start citing existentialism or psychoanalysis or any other "big" school of philosophy and try to defend his or hers perspective behind the names of "great authors" in the respective school. It is how philosophers think! If you ask my colleagues they will think like scientists-they tell you Life is what we observe to be Life! Therefore any facts about Life are facts about our observations. We observe Life trying to survive, therefore survival is a prerequisite of Life. All things alive try to survive-therefore, survival is part of Life! Of course, there are some "exceptions" here and there but even they can be explained in terms of the individual dying for the sake of the group or any other "superorganism" they can observe. Do you agree? And it is here where the "conflict" comes into play and it seems like everybody has their own answer for the question but what they really are doing is like comparing their own "version" of reality to anyone else's? Have you ever been in such a situation?
