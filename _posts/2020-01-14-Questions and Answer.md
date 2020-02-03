@@ -21,7 +21,7 @@ What if time moved backwards? <br>
 On a question 'Why is it necesaary to survive?'
 
 This is the most satisfiying answer: <br>
-,,,
+```
 I think I am a kind of the "opposite" of you-(grin :)-I am a biologist who in the pursuit of the great questions of Life had to introduce himself to philosophy, so I have my own unique perspective on this question and can understand how you "feel" about it!
 
 If you ask my colleagues they will probably start to mumble things like it is evolution driving Life so it needs to survive to evolve, it is a "natural instinct" or even survival is the purpose of Life but as a man who had "been" in both worlds-philosophy and biology I want to tell you some personal experience-neither the biologists. not the philosophers can answer you arguably good. I think the reason is biologists don't understand philosophy and philosophers-biology. And what is even worse is they sometimes do not want to understand each other! But in order to answer your question-they simple must! This is why you get the attitude you get. If you ask a philosopher he will tell you survival is a matter of choice and start citing existentialism or psychoanalysis or any other "big" school of philosophy and try to defend his or hers perspective behind the names of "great authors" in the respective school. It is how philosophers think! If you ask my colleagues they will think like scientists-they tell you Life is what we observe to be Life! Therefore any facts about Life are facts about our observations. We observe Life trying to survive, therefore survival is a prerequisite of Life. All things alive try to survive-therefore, survival is part of Life! Of course, there are some "exceptions" here and there but even they can be explained in terms of the individual dying for the sake of the group or any other "superorganism" they can observe. Do you agree? And it is here where the "conflict" comes into play and it seems like everybody has their own answer for the question but what they really are doing is like comparing their own "version" of reality to anyone else's? Have you ever been in such a situation?
@@ -41,11 +41,11 @@ Yordan Yordanov
 
 Life is compared to fire, because it is self-sustaining process just like it. The big difference, however, is Life keeps the energy it releases withinitself to build more organization with it, while fire releases it in the environment. In short fire simplifies its environment-Life complexifies it. If fire could generate complexity it would be truly alive. But it doesn't. However it displays the answer to the question asked here-it displays "the will" to survive as any self-sustaining process does. If Life is self-sustaining process, then its desire to survive is explained. – Yordan YordanovFeb 26 '17 at 23:11 
 
-,,,
+```
 
 2. An answer 'for why time is moving forward?'
 by Me on 25/01/2020 <br>
-,,,
+```
 Mengapa waktu bergerak ke depan?<br>
 Karena waktu, kemanapun geraknya, hasilnya akan tetap sama.<br>
 Manusia tumbuh dari bayi menjadi tua karena waktu berjalan ke depan.<br>
@@ -58,6 +58,6 @@ Bukankah sama saja?<br>
 Seorang pelajar yang awalnya tidak tahu, setelah belajar menjadi tahu, keesokan harinya lupa. Bagaimana jika waktu berjalan mundur?<br>
 Tinggal dibalik. Pelajar yang sekarang lupa, kemudian jadi tahu, keesokan harinya tidak tahu.<br>
 Apa bedanya?<br>
-,,,
+```
 
 
