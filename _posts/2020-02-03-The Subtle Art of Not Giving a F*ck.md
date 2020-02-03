@@ -7,7 +7,7 @@ tags: []
 image: assets/images/Asubtleartofnotgivingafuck.jpg
 description: "Fucccck"
 featured: false
-hidden: false
+hidden: true
 rating: 5
 ---
 
