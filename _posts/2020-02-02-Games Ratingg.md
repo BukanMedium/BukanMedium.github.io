@@ -2,7 +2,7 @@
 layout: post
 title:  "Games"
 author: Shlhnj
-categories: [ Review, Game review, ]
+categories: [ Review, Games Review, ]
 tags: []
 image: assets/images/Gamesreview.jpg
 description: "Game yang pernah tak mainin"
