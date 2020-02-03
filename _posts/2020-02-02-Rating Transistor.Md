@@ -7,7 +7,7 @@ tags: []
 image: assets/images/Transistor.jpg
 description: "Transistor"
 featured: false
-hidden: false
+hidden: true
 rating: 4
 ---
 Tags: Rpg, Third person, Cyberpunk.
