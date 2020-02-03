@@ -18,3 +18,7 @@ group :jekyll_plugins do
     gem 'kramdown'
     gem 'rouge'
 end
+
+group :jekyll_plugins do
+  gem 'jekyll-commonmark-ghpages'
+end
