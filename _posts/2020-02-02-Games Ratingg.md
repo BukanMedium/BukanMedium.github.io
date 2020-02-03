@@ -10,7 +10,7 @@ featured: false
 hidden: false
 ---
 
-**Don't Starve**
+**Don't Starve** <br>
 ![DS](/assets/images/Dontstarve.jpg) <br>
 {% include 5star.html %} <br>
 An advanced level minecraft. <br>
@@ -21,7 +21,7 @@ An advanced level minecraft. <br>
 <br>
 <br>
 
-**Dwarf Fortress**
+**Dwarf Fortress** <br>
 ![DF](/assets/images/DF.jpg) <br>
 {% include 5star.html %} <br>
 A super complex management game. With an amazing ASCII graphic!
@@ -35,16 +35,23 @@ Let the mem talk <br>
 <br> With an awesome ASCII graphic!
 ![these images aren't mine 1](/assets/images/DFascii.gif)
 
+<br>
+<br>
+<br>
+<br>
 
-**Invisible Inc**
+**Invisible Inc** <br>
 ![Invisibleinc](/assets/images/Invisibleinc.jpg) <br>
 {% include 5star.html %} <br>
 Not your typical stealth game. <br>
 ![I dont own this picture](/assets/images/Invisibleincgraph.jpg)
 
+<br>
+<br>
+<br>
+<br>
 
-
-**Transistor**
+**Transistor** <br>
 ![Invisibleinc](/assets/images/Transistor.jpg) <br>
 {% include 4.75star.html %} <br>
 Tags: Rpg, Third person, Cyberpunk.
