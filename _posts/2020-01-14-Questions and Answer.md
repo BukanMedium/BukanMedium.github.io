@@ -22,7 +22,9 @@ On a question 'Why is it necesaary to survive?'
 
 This is the most satisfiying answer: <br>
 <details>
-  <summary>Click to expand!</summary>
+<summary>
+<a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Show all details</a>    
+</summary>
  
 
 I think I am a kind of the "opposite" of you-(grin :)-I am a biologist who in the pursuit of the great questions of Life had to introduce himself to philosophy, so I have my own unique perspective on this question and can understand how you "feel" about it!
