@@ -17,12 +17,16 @@ Tau sendirilah isinya gimana. Minke. Annelies. Nyai Ontosoroh. Mantap-mantap.
 
 <br>
 <br>
+<br>
+<br>
 
 **Candide** by Voltaire <br>
 ![Candide](/assets/images/Candide.jpg) <br>
 {% include 3.5star.html %} <br>
 Novel klasik karangan filsuf perancis ini mengisahkan tentang kehidupan Candide, seorang pelajar -yang karena nasibnya, terpaksa berkeliling dunia- dan profesor Pangloss yang selalu optimistis dalam menghadapi segala musibah.
 
+<br>
+<br>
 <br>
 <br>
 
@@ -33,6 +37,8 @@ Lengkap. Seru. Unik. Wajib baca.
 
 <br>
 <br>
+<br>
+<br>
 
 **Count Of Monte Cristo** by Alexndre Dumas <br>
 ![Countofmontecristo](/assets/images/Countofmontecristo.jpg) <br>
@@ -41,12 +47,16 @@ Novel paling seru yang pernah tak baca setelah Pasar karya Kuntowijoyo. Alurnya 
 
 <br>
 <br>
+<br>
+<br>
 
 **Metamorfosis** by Franz Kafka <br>
 ![Metamorfosis.jpg](/assets/images/Metamorfosis.jpg) <br>
 {% include 3.75star.html %} <br>
 Kumpulan cerita-cerita karangan Kafka. Penulisannya unik, absurd, gelap, penuh keputusasaan. Saking khasnya sampai-sampai diabadikan dalam kamus dengan kata Kafkaesque yang berarti berrnuansa Kafka.
 
+<br>
+<br>
 <br>
 <br>
 
@@ -58,6 +68,8 @@ Thomas and friend menyelamatkan bank yang mau runtuh. Sequelnya (Negeri di ujung
 
 <br>
 <br>
+<br>
+<br>
 
 **Old Man and The Sea** by Ernest Hemingway <br>
 ![Old Man and The Sea.jpg](/assets/images/Oldmanandthesea.jpg) <br>
@@ -66,12 +78,16 @@ Gaya bahasanya succint. To the point. Tapi alurnya agak lambat, kadang bikin bos
 
 <br>
 <br>
+<br>
+<br>
 
-** The Subtle Art of Not Giving a Fck ** by Mark Manson <br>
+**The Subtle Art of Not Giving a Fck** by Mark Manson <br>
 ![Asubtleartofnotgivingafuck.jpg](/assets/images/Asubtleartofnotgivingafuck.jpg) <br>
 {% include 4.75star.html %} <br>
 The Art of Not Giving a F*ck by Mark Manson Buku pengembangan diri dengan cara yang nggak biasa. Mantap.
 
+<br>
+<br>
 <br>
 <br>
 
@@ -80,6 +96,8 @@ The Art of Not Giving a F*ck by Mark Manson Buku pengembangan diri dengan cara y
 {% include 4.75star.html %} <br>
 Tokyo Ghoul by Shui Ishida Manga paling keren. Hehe. Plotnya gk terduga. Konflik dapet, romance dapet, tapi yg paling penting referensinya itu lho. Yang bikin aku baca Kafka ya manga ini. Referensinya dan simbolismenya hmmm, kemana-mana, Alice in the Wonderland, Metamorfosis, Black goats egg, Helter Skelter, itu belum semua, bahkan ada yang nyambungin sampai ke kejadian 9/11. Don't mind the anime version. Just nope.
 
+<br>
+<br>
 <br>
 <br>
 
