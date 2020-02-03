@@ -13,6 +13,6 @@ rating: 5
 
 Sebenernya nggak layak disebut review sih wkwk, lebih ke ngasih rating tok. Bintang-bintang.
 
-For books review, click [here](https://bukanmedium.github.io/BukanMedium.github.io/categories#Books review)
-For game review, click [here](https://bukanmedium.github.io/BukanMedium.github.io/categories#Game review)
+For books review, click [here](https://bukanmedium.github.io/BukanMedium.github.io/categories#Books-review)
+For game review, click [here](https://bukanmedium.github.io/BukanMedium.github.io/categories#Game-review)
 
