@@ -17,7 +17,7 @@ Why time moved forward? <br>
 What if time moved backwards? <br>
 
 **Answer:**<br>
-1. I found the answer to question #1 ont [this site](https://philosophy.stackexchange.com/questions/15596/why-is-it-necessary-to-survive?newreg=c3f02f22f46c48e28ef6379ba6438177)
+1. I found the answer to question #1 on [this site](https://philosophy.stackexchange.com/questions/15596/why-is-it-necessary-to-survive?newreg=c3f02f22f46c48e28ef6379ba6438177)
 On a question 'Why is it necesaary to survive?'
 
 This is the most satisfiying answer: <br>
@@ -49,7 +49,7 @@ Life is compared to fire, because it is self-sustaining process just like it. Th
 <br>
 <br>
 
-2. An answer 'for why time is moving forward?'
+2. An answer 'for why time is moving forward?'<br>
 by Me on 25/01/2020 <br>
 <details>
   <summary>Click to expand!</summary>
