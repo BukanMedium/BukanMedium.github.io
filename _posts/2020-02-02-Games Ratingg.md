@@ -26,13 +26,13 @@ An advanced level minecraft. <br>
 {% include 5star.html %} <br>
 A super complex management game. <br>
 Let the meme talk <br>
-<br> Learing curve is so steep:
+Learing curve is so steep:
 ![these images aren't mine 1](/assets/images/DFgraph.jpg)<br> 
-<br> Complexity is at the fractal level<br> 
+Complexity is at the fractal level<br> 
 ![these images aren't mine 2](/assets/images/DFfractal.jpg)
-<br> Compared to other games out there<br> 
+Compared to other games out there<br> 
 ![these images aren't mine 3](/assets/images/DFcomparison.jpg)<br> 
-<br> With an awesome ASCII graphic!<br> 
+With an awesome ASCII graphic!<br> 
 ![these images aren't mine 1](/assets/images/DFascii.gif)<br> 
 ---
 <br>
