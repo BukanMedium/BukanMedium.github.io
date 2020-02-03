@@ -7,7 +7,7 @@ tags: []
 image: assets/images/Oldmanandthesea.jpg
 description: "Marlin!"
 featured: false
-hidden: false
+hidden: true
 rating: 3.5
 ---
 
