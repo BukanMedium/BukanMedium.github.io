@@ -2,7 +2,7 @@
 layout: post
 title:  "About Review"
 author: Shlhnj
-categories: [ Review, Games Review, Books Rview ]
+categories: [ Review, Games Review, Books Review ]
 tags: []
 image: assets/images/Review.jpg
 description: "Wkkwkwkwkwkwk"
