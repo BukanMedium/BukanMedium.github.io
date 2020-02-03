@@ -24,7 +24,7 @@ An advanced level minecraft. <br>
 **Dwarf Fortress** <br>
 ![DF](/assets/images/DF.jpg) <br>
 {% include 5star.html %} <br>
-A super complex management game. With an amazing ASCII graphic!
+A super complex management game. With an amazing ASCII graphic!<br>
 Let the mem talk <br>
 <br> Learing curve is so steep:
 ![these images aren't mine 1](/assets/images/DFgraph.jpg)
