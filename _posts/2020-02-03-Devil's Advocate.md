@@ -32,7 +32,7 @@ Coba dikerucutkan lagi.<br>
 -Nah. Ini selain sebagai efek jera, ini juga sebagai peringatan bagi manusia lain bahwa mencuri itu walaupun sekecil apapun tetaplah mencuri, sehingga manusia lain juga akan **takut** untuk mencuri walaupun barang barang sepele.<br>
 
 Itu tadi hanya satu contoh dari ribuan permasalahan yang bisa dilihat dari sisi yang tidak biasa. Contoh lain misalnya:
-Mahasiswa yang mengkritisi korupsi. Sekilah ini tampak sebagai hal yang benar. Tapi jika dilihat dari sisi yang berseberangan, koruptor akan tertawa terbahak-bahak. Ya mungkin ada benarnya, tapi salahnya juga banyak dan nggak relevan. Mengapa?
+Mahasiswa yang mengkritisi korupsi. Sekilah ini tampak sebagai hal yang benar. Tapi jika dilihat dari sisi yang berseberangan, koruptor akan tertawa terbahak-bahak. Ya mungkin ada benarnya, tapi salahnya juga banyak dan nggak relevan. Mengapa? <br>
 +Ya mengapa? Mengapa korupsi didemo?<br>
 Karena merugikan masyarakat.
 -Krnapa cuma pejabat yang didemo? Padahal ada yang korupsi lebih banyak dari pejabat.<br>
