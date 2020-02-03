@@ -7,7 +7,7 @@ tags: []
 image: assets/images/Metamorfosis.jpg
 description: "Berubah jadi coro"
 featured: false
-hidden: false
+hidden: true
 rating: 3.5
 ---
 
