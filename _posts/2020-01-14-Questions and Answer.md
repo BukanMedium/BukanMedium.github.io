@@ -46,25 +46,26 @@ Life is compared to fire, because it is self-sustaining process just like it. Th
 
 </details>
 
-
+<br>
+<br>
 
 2. An answer 'for why time is moving forward?'
 by Me on 25/01/2020 <br>
 <details>
   <summary>Click to expand!</summary>
   
-Mengapa waktu bergerak ke depan?
-Karena waktu, kemanapun geraknya, hasilnya akan tetap sama.
-Manusia tumbuh dari bayi menjadi tua karena waktu berjalan ke depan.
-Manusia tumbuh dari bayi yang tidak bisa mengingat sesuatu menjadi orang tua yang pikun dan mudah lupa.
-Manusia berawal dari ketiadaan menuju ketiadaan.
-Sekarang bagaimana jika waktu berjalan mundur?
-Manusia akan berbalik dari kematian (ketiadaan) dan menjadi semakin muda menjadi bayi yang setelah itu akan menjadi tiada.
-Manusia akan berbalik dari pikun menjadi tidak bisa mengingat.
-Bukankah sama saja?
+Mengapa waktu bergerak ke depan?<br>
+Karena waktu, kemanapun geraknya, hasilnya akan tetap sama.<br>
+Manusia tumbuh dari bayi menjadi tua karena waktu berjalan ke depan.<br>
+Manusia tumbuh dari bayi yang tidak bisa mengingat sesuatu menjadi orang tua yang pikun dan mudah lupa.<br>
+Manusia berawal dari ketiadaan menuju ketiadaan.<br>
+Sekarang bagaimana jika waktu berjalan mundur?<br>
+Manusia akan berbalik dari kematian (ketiadaan) dan menjadi semakin muda menjadi bayi yang setelah itu akan menjadi tiada.<br>
+Manusia akan berbalik dari pikun menjadi tidak bisa mengingat.<br>
+Bukankah sama saja?<br>
 Seorang pelajar yang awalnya tidak tahu, setelah belajar menjadi tahu, keesokan harinya lupa. Bagaimana jika waktu berjalan mundur?<br>
-Tinggal dibalik. Pelajar yang sekarang lupa, kemudian jadi tahu, keesokan harinya tidak tahu.
-Apa bedanya?
+Tinggal dibalik. Pelajar yang sekarang lupa, kemudian jadi tahu, keesokan harinya tidak tahu.<br>
+Apa bedanya?<br>
 </details>
 
 
