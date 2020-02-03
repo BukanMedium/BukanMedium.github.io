@@ -43,7 +43,7 @@ paginate: 6
 paginate_path: /page:num/
     
 # Other
-markdown: CommonMarkGhPages
+markdown: kramdown
 
 kramdown:
   input: GFM
