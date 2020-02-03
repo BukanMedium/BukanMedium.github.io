@@ -25,11 +25,11 @@ Coba dikerucutkan lagi.<br>
 +Biar nggak mencuri lagi.<br>
 -Nah, ketemu jawabannya.<br>
 +Tapi, sekali lagi, hukuman yang diberikan tidak sebanding. Simbah² tersebut orang miskin, ini tidak adil.<br>
--Lah memang hukuman dibuat untuk apa? Kan tadi dah dibilang supaya jera, tidak mengulang lagi. Hukuman yang adil yang seperti apa sih? Disuruh ngembalikan karet yang udah dicuri? Enak dong, kalo gitu besok mencuri aja.
+-Lah memang hukuman dibuat untuk apa? Kan tadi dah dibilang supaya jera, tidak mengulang lagi. Hukuman yang adil yang seperti apa sih? Disuruh ngembalikan karet yang udah dicuri? Enak dong, kalo gitu besok mencuri aja. <br>
 +Ya harusnya kira-kira dong. Membuat jera ya membuat jera, tapi kita harus ingat juga bahwa dia orang miskin.<br>
 -Lah kalo orang miskin terus boleh mencuri?<br>
 +Ya enggak<br>
--Nah. Ini selain sebagai efek jera, ini juga sebagai peringatan bagi manusia lain bahwa mencuri itu walaupun sekecil apapun tetaplah mencuri, sehingga manusia lain juga akan takut untuk mencuri walaupun barang barang sepele.<br>
+-Nah. Ini selain sebagai efek jera, ini juga sebagai peringatan bagi manusia lain bahwa mencuri itu walaupun sekecil apapun tetaplah mencuri, sehingga manusia lain juga akan **takut** untuk mencuri walaupun barang barang sepele.<br>
 
 Itu tadi hanya satu contoh dari ribuan permasalahan yang bisa dilihat dari sisi yang tidak biasa. Contoh lain misalnya:
 Mahasiswa yang mengkritisi korupsi. Sekilah ini tampak sebagai hal yang benar. Tapi jika dilihat dari sisi yang berseberangan, koruptor akan tertawa terbahak-bahak. Ya mungkin ada benarnya, tapi salahnya juga banyak dan nggak relevan. Mengapa?
