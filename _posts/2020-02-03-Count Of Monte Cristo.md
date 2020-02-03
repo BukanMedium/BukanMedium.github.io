@@ -7,7 +7,7 @@ tags: []
 image: assets/images/Countofmontecristo.jpg
 description: "Count"
 featured: false
-hidden: false
+hidden: true
 rating: 5
 ---
 
