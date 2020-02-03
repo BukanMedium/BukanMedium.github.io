@@ -2,7 +2,7 @@
 layout: post
 title:  "About Review"
 author: Shlhnj
-categories: [ Review ]
+categories: [ Review, Game review, Books review ]
 tags: []
 image: assets/images/Review.jpg
 description: "Wkkwkwkwkwkwk"
@@ -13,4 +13,6 @@ rating: 5
 
 Sebenernya nggak layak disebut review sih wkwk, lebih ke ngasih rating tok. Bintang-bintang.
 
-For review categories, click [here](https://bukanmedium.github.io/BukanMedium.github.io/categories#Art)
+For books review, click [here](https://bukanmedium.github.io/BukanMedium.github.io/categories#Books review)
+For game review, click [here](https://bukanmedium.github.io/BukanMedium.github.io/categories#Game review)
+
