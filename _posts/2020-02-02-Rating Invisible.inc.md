@@ -7,7 +7,7 @@ tags: []
 image: assets/images/Invisibleinc.jpg
 description: "Tactical Espionage Game"
 featured: false
-hidden: false
+hidden: true
 rating: 5
 ---
 
