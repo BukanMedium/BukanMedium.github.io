@@ -7,7 +7,7 @@ tags: []
 image: assets/images/Negeriparabedebah.jpg
 description: "Bedebahhh"
 featured: false
-hidden: false
+hidden: true
 rating: 3.5
 ---
 Mungkin satu-satunya novel Tere Liye yang tak kasi rating. UwU <br>
