@@ -7,7 +7,7 @@ tags: []
 image: assets/images/Dontstarve.jpg
 description: "Ojo ngelih"
 featured: false
-hidden: false
+hidden: true
 rating: 5
 ---
 
