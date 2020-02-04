@@ -18,6 +18,9 @@ hidden: false
 -What is it?<br>
 Sebuah static site generator yang menggunakan bahasa pemrograman ruby/git (mbuh rareti) dan menggunakan github untuk hosting situs atau blog yang dibuat. <br>
 
+<br>
+<br>
+
 -What you need to start a jekyll blog:
 1. [Github](https://github.com) account 
 - Untuk hosting blog/website yang telah dibuat di text editor
@@ -26,17 +29,23 @@ Sebuah static site generator yang menggunakan bahasa pemrograman ruby/git (mbuh 
 3. Git command prompt
 - Untuk menghubungkan antara text editor & github account (untuk mengupload file lokal yang telah dibuat ke akun github)
 
+<br>
+<br>
+
 ###Step by step <br>
-- Creating a github account
+- ####Creating a github account
 1. Go to githun
 2. Create account
 3. Create a repository named <your account name>.github.io
 4. .....
 5. Done
 	
+
+<br>
 <br>
 
-- Downloading text editor
+
+- ####Downloading text editor
 1. Choose your text editor
 - Notepad++ (Lightweight text editor, notepad with ++ feature)
 - Visual studio code
@@ -47,9 +56,12 @@ Sebuah static site generator yang menggunakan bahasa pemrograman ruby/git (mbuh 
 5. .....
 6. Done
 
+
+<br>
 <br>
 
-- Downloading git command prompt
+
+- ####Downloading git command prompt
 1. Go to git.smc...
 2. Download
 3. Install
@@ -73,12 +85,18 @@ Or read this long summary instead.
 - type ```gem install jekyll bundler```
 - check apakah jekyll sudah terinstall atau belum dengan ```jekyll -v```
 
-2. Creating lokal jekyll website
+<br>
+<br>
+
+2. Creating lokal jekyll website 
 - Open your command prompt (cari folder untuk blog lokal, klik kanan, git bash here)
 - Type ```jekyll new <your blog name>```
 - type ```cd <your blog name>``` to change directory to your new folder blog
 - type ```bundle exec jekyll serve``` (this is for the first time set up. Next time you do this, just type jekyll serve)
 - Type the addres shown on your command prompt (usually: https://127.0.0.1:4000)
+
+<br>
+<br>
 
 Dalam folder <you blog name> terdapat beberapa file & folder
 - folder _post	: untuk menyetorkan file yang akan diposting di blog
@@ -88,9 +106,12 @@ Dalam folder <you blog name> terdapat beberapa file & folder
 - file about	: tentang 
 - file index	: index
 
-3. Frontmatter
+<br>
+<br>
+
+3. Frontmatter <br>
 -> adalah informasi yang ditampilkan oleh website/blog
--buka file dalam folder _post dengan text editor
+- buka file dalam folder _post dengan text editor
  di bagian atas terdapat frontmatter yang diberada diantara dua garis strip
 ```
 ----
@@ -103,33 +124,45 @@ Categories: kategori post
 penamaan file dalam folder _post harus dengan format tahun-bulan-tanggal-Judulpost.md
 YYYY-MM-DD-<Post title>.md contoh: 2020-02-02-contohpost.md
 
+<br>
+<br>
+
 4. Drafts
--Buat folder baru dengan nama _drafts
--buat file markdown (file berakhiran .md) baru
--file yang berada di folder drafts tidak akan ditampilkan di browser dengan perintah 'jekyll serve' tetapi dapat ditampilkan dengan ```jekyll serve --drafts```
+- Buat folder baru dengan nama _drafts
+- buat file markdown (file berakhiran .md) baru
+- file yang berada di folder drafts tidak akan ditampilkan di browser dengan perintah 'jekyll serve' tetapi dapat ditampilkan dengan ```jekyll serve --drafts```
+
+<br>
+<br>
 
 
 5. Membuat Halaman
--Untuk membuat halaman dapat dilakukan dengan membuat file baru dalam folder <your blog name> dengan ekstensi markdown.
+- Untuk membuat halaman dapat dilakukan dengan membuat file baru dalam folder <your blog name> dengan ekstensi markdown.
 <br> (untuk halaman post harus dibuat dalam folder _post)
--Untuk mengisi, menambahkan, atau merubah konten halaman dapat dilakukan dibawak tanda garis setrip putus-putus (di bawah front matter)
+- Untuk mengisi, menambahkan, atau merubah konten halaman dapat dilakukan dibawak tanda garis setrip putus-putus (di bawah front matter)
 ```
 ---
 ---
 ```
 tanda seperti itu merupakan informasi setting halaman, bukan isi konten.
 
+<br>
+<br>
+
 6.Permalinks <br>
 -> Fungsinya untuk memodifikasi URL <br>
 (url heavily dependent on frontmatter, e.g date, title, categories) <br>
--How to create permanent link (even if you change the page setting/information on its frontmatter, so you can change the front matter without affecting the url)
--Create new frontmatter variable ```Permalink:"/your preferred url/"``` <br>
--or if you want, you can use date & title as url, using this permalink: ```/:categories/:year:/month/:day:/title``` will result in categories of the post year moth day and title of the post as url.
+- How to create permanent link (even if you change the page setting/information on its frontmatter, so you can change the front matter without affecting the url)
+- Create new frontmatter variable ```Permalink:"/your preferred url/"``` <br>
+- or if you want, you can use date & title as url, using this permalink: ```/:categories/:year:/month/:day:/title``` will result in categories of the post year moth day and title of the post as url.
+
+<br>
+<br>
 
 7. Frontmatter default <br>
 ->Untuk membuat front matter halaman dengan default
--buka file config.yml
--dibawah kata "plugin" ketik 
+- buka file config.yml
+- dibawah kata "plugin" ketik 
 ```
 defaults:
 	-
@@ -141,36 +174,42 @@ defaults:
 		title: "judul defaults"
 ```
 
-8. Tema <br>
--Buka file config.yml <br>
--Cari tulisan "theme:minima" <br>
-(minima adalah nama tema yang sedang digunakan. Ini memang setting default dari sananya) <br>
--Buka "rubygems.org"
--search "jekyll-theme"
--pilih tema yang diinginkan
--klik pada homepage
--buka file readme
--pada bagian 'usage' copy nama tema tersebut
--buka file gemfile pada folder <your blog name> menggunakan text editor
--cari tulisan gem "minima....."
--ganti menjadi gem "nama tema....." (tinggal paste)
--buka git command prompt
--ketik bundle install, tunngu sampai selesai install
--buka file config.yml
--pada bagian theme:minima ganti menjadi theme:nama tema
--buka command prompt lagi, ketik ```bundle exec jekyll serve```
--jika tidak menampilkan apa-apa, mungkin layoutnya beda
--buka github pada folder _layout
+<br>
+<br>
 
-9. Layout
-Membuat layout
--buat folder dengan nama _layout
--buat file dengan ekstensi html
--buat kerangka dalam bahasa html
+8. Tema <br>
+- Buka file config.yml <br>
+- Cari tulisan "theme:minima" <br>
+(minima adalah nama tema yang sedang digunakan. Ini memang setting default dari sananya) <br>
+- Buka "rubygems.org"
+- search "jekyll-theme"
+- pilih tema yang diinginkan
+- klik pada homepage
+- buka file readme
+- pada bagian 'usage' copy nama tema tersebut
+- buka file gemfile pada folder <your blog name> menggunakan text editor
+- cari tulisan gem "minima....."
+- ganti menjadi gem "nama tema....." (tinggal paste)
+- buka git command prompt
+- ketik bundle install, tunngu sampai selesai install
+- buka file config.yml
+- pada bagian theme:minima ganti menjadi theme:nama tema
+- buka command prompt lagi, ketik ```bundle exec jekyll serve```
+- jika tidak menampilkan apa-apa, mungkin layoutnya beda
+- buka github pada folder _layout
+
+<br>
+<br>
+
+9. Layout <br>
+Membuat layout<br>
+- buat folder dengan nama _layout
+- buat file dengan ekstensi html
+- buat kerangka dalam bahasa html
 ```{{content}}```
 layout dapat dipakai pada file post dengan mengganti frontmatter layout:post menjadi layout: namafilelayout
--untuk membuat layout dalam layout dapat dibuat dengan cara menambahkan frontmatter layout pada file layout.
--contoh ada file layout dengan nama default.html dan post.html, kedua layout dapat ditumpuk dengan cara membuat front matter pada file post.html:
+- untuk membuat layout dalam layout dapat dibuat dengan cara menambahkan frontmatter layout pada file layout.
+- contoh ada file layout dengan nama default.html dan post.html, kedua layout dapat ditumpuk dengan cara membuat front matter pada file post.html:
 ```
 ---
 layout: default
@@ -178,30 +217,39 @@ layout: default
 ```
 -hasilnya adalah layout post akan ditumpuk diatas layout default (layout default mejadi dasarnya)
  
-10. Variables
+<br>
+<br>
+
+10. Variables<br>
 ->Adalah keterangan pada frontmatter
--contoh: Author:.....
--Untuk menambahkan keterangan author pada layout dapa digubakan dengan mengedit file layout dan menambahkan
+- contoh: Author:.....
+- Untuk menambahkan keterangan author pada layout dapa digubakan dengan mengedit file layout dan menambahkan
 ```
 <h3>{{ layout.authoe }}<h3> --> yg punya layout
 	page.title
 	page.author	    --> yg punya page	
 	site.title
 ```
--variable dapat dilihat di website resmi jekyll
+- variable dapat dilihat di website resmi jekyll
 
-11. Includes
+<br>
+<br>
+
+11. Includes<br>
 -> header, footer, navigation, dll
--Buat folder includes pada folder <your blog name>
--buat header.html
+- Buat folder includes pada folder <your blog name>
+- buat header.html
 ```
 {{ content }}
 ```
 -pada file layout, tambahkan ```{% include header.html %}```
 
-12. Navigations
+<br>
+<br>
+
+12. Navigations<br>
 ->membuat navigasi
--pada file layout
+- pada file layout
 ```
 {% for post in site.post %} --> dapat diganti menjadi site.pages
 	<li><a href="{{ post.url }}">{{post.title}}</a>
@@ -217,8 +265,11 @@ untuk menambahkan style dapat digunakan
 {% endfor %}
 ```
 
-13. Conditional If
--pada file layout
+<br>
+<br>
+
+13. Conditional If <br>
+- pada file layout
 ```
 {% if page.title=="my first post" %}
 This is the first post
@@ -229,26 +280,32 @@ This is another post
 {% endif %}
 ```
 
-14. Data Files
--Create new folder _data
--Create new data files eith .yml extension
--Integrasi ke layout dengan cara
+<br>
+<br>
+
+14. Data Files <br>
+- Create new folder _data
+- Create new data files eith .yml extension
+- Integrasi ke layout dengan cara
 ```{{ site.data data name }}```
--e.g in layout file 
+- e.g in layout file 
 ```
 {% for person in site.data people %}
 {{person.name}}, {{person.occupation}}<br>
 {% endfor %}
 ```
--e.g in datafiles.yml
--name:
- occupation
--name:
- Ooccupation
--name
- occupation
+- e.g in datafiles.yml
+- name:
+  occupation
+- name:
+  Ooccupation
+- name
+  occupation
 
-15. Static file
+<br>
+<br>
+
+15. Static file <br>
 -> file that don't have frontmatter
 -Buka file layout
 ```
@@ -257,10 +314,13 @@ This is another post
 {%endfor%}
 ```
 
+<br>
+<br>
+
 16. Hosting to github
--ganti baseul pada cofig.yml dengan url git repository
--buka git command prompt
--ketik: 
+- ganti baseul pada cofig.yml dengan url git repository
+- buka git command prompt
+- ketik: 
 ```
 1. git init
 2. git config user.email "emailmu yang digunakan untuk membuat akun github"
