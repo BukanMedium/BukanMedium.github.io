@@ -240,13 +240,17 @@ layout: default
 -> header, footer, navigation, dll
 - Buat folder includes pada folder <your blog name>
 - buat header.html
+	
 ```
 {{ content }}
 ```
+
 -pada file layout, tambahkan 
+	
 ```
 {% include header.html %}
 ```
+
 <br>
 <br>
 
@@ -273,10 +277,11 @@ untuk menambahkan style dapat digunakan
 
 13. Conditional If <br>
 - pada file layout
+
 ```
 {% if page.title=="my first post" %}
 This is the first post
-{% else if page.title=="my second post %}
+{% elseif page.title=="my second post %}
 This is the second post
 {% else %}
 This is another post
