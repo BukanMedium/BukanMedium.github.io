@@ -10,7 +10,8 @@ featured: false
 hidden: false
 ---
 
-# **How to blog with jekyll** part 1/2 <br>
+# **How to blog with jekyll 1** <br>
+Jekyll part 2/3 <br>
 
 ## Introduction<br>
 
@@ -332,6 +333,9 @@ This is another post
 ```
 kalau udah diupload, website/blogmu bisa dilihat di bagian setting, nanti cari tulisan "your page was published in <nama akunmu>.github.io"
 
+
+<br>
+<br>
 
 Terlalu panjang? <br>
 Nggak paham <br>
