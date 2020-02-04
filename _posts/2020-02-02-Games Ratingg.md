@@ -7,7 +7,7 @@ tags: []
 image: assets/images/Gamesreview.jpg
 description: "Game yang pernah tak mainin"
 featured: false
-hidden: false
+hidden: true
 ---
 
 **Don't Starve** <br>
