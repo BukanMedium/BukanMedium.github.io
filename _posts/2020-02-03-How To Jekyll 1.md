@@ -245,10 +245,9 @@ layout: default
 {{ content }}
 ```
 
-- pada file layout, tambahkan 
 	
 
-> {% include <nama file> %}
+
 
 
 <br>
@@ -316,6 +315,7 @@ This is another post
 15. Static file <br>
 -> file that don't have frontmatter
 -Buka file layout
+
 ```
 {% for file in site.static_files %}
 {{file.}}<br>
