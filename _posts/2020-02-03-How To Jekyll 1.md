@@ -245,10 +245,10 @@ layout: default
 {{ content }}
 ```
 
--pada file layout, tambahkan 
+- pada file layout, tambahkan 
 	
 ```
-{% include header.html %}
+{% include <header>.html %}
 ```
 
 <br>
