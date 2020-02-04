@@ -281,7 +281,7 @@ untuk menambahkan style dapat digunakan
 ```
 {% if page.title=="my first post" %}
 This is the first post
-{% elseif page.title=="my second post %}
+{% else if page.title=="my second post %}
 This is the second post
 {% else %}
 This is another post
