@@ -19,70 +19,74 @@ hidden: false
 Sebuah static site generator yang menggunakan bahasa pemrograman ruby/git (mbuh rareti) dan menggunakan github untuk hosting situs atau blog yang dibuat. <br>
 
 -What you need to start a jekyll blog:
-1. [Github](https://github.com) account
--Untuk hosting blog/website yang telah dibuat di text editor
+1. [Github](https://github.com) account 
+- Untuk hosting blog/website yang telah dibuat di text editor
 2. Text editor (Notepad++, Visual Studio, VIM, VSC, dll. pilih satu & donlod sendiri)
--Untuk membuat blog/website secara lokal (offline)
+- Untuk membuat blog/website secara lokal (offline)
 3. Git command prompt
--Untuk menghubungkan antara text editor & github account (untuk mengupload file lokal yang telah dibuat ke akun github)
+- Untuk menghubungkan antara text editor & github account (untuk mengupload file lokal yang telah dibuat ke akun github)
 
 ###Step by step <br>
--Creating a github account
+- Creating a github account
 1. Go to githun
 2. Create account
 3. Create a repository named <your account name>.github.io
 4. .....
 5. Done
+	
+<br>
 
--Downloading text editor
+- Downloading text editor
 1. Choose your text editor
--Notepad++ (Lightweight text editor, notepad with ++ feature)
--Visual studio code
--Visual studio (advanced text editor)
+- Notepad++ (Lightweight text editor, notepad with ++ feature)
+- Visual studio code
+- Visual studio (advanced text editor)
 2. Go to the official site
 3. Download
 4. Install
 5. .....
 6. Done
 
--Downloading git command prompt
+<br>
+
+- Downloading git command prompt
 1. Go to git.smc...
 2. Download
 3. Install
 4. .....
 5. Done
 
+<br>
+<br>
 
-
-
-###Getting started
-Go to [youtube](https://youtube.com), search "Jekyll tutorial" and play the 19 vid playlist.
+###Getting started<br>
+Go to [youtube](https://youtube.com), search "Jekyll tutorial" and play the 19 vid playlist.<br>
 Or read this long summary instead.
 
 1. Installing ruby gems and jekyll
--https://rubygems.org/downloads
--install (if you don't know how, just use google)
--at the end of installation run msys2
--install the 1, 2, 3, option by typing 1 and hit enter and so on untill all the 3 option are installed.
--close the terminal
--open your command prompt
--type ```gem install jekyll bundler```
--check apakah jekyll sudah terinstall atau belum dengan ```jekyll -v```
+- https://rubygems.org/downloads
+- install (if you don't know how, just use google)
+- at the end of installation run msys2
+- install the 1, 2, 3, option by typing 1 and hit enter and so on untill all the 3 option are installed.
+- close the terminal
+- open your command prompt
+- type ```gem install jekyll bundler```
+- check apakah jekyll sudah terinstall atau belum dengan ```jekyll -v```
 
 2. Creating lokal jekyll website
--Open your command prompt (cari folder untuk blog lokal, klik kanan, git bash here)
--Type ```jekyll new <your blog name>```
--type ```cd <your blog name>``` to change directory to your new folder blog
--type ```bundle exec jekyll serve``` (this is for the first time set up. Next time you do this, just type jekyll serve)
--Type the addres shown on your command prompt (usually: https://127.0.0.1:4000)
+- Open your command prompt (cari folder untuk blog lokal, klik kanan, git bash here)
+- Type ```jekyll new <your blog name>```
+- type ```cd <your blog name>``` to change directory to your new folder blog
+- type ```bundle exec jekyll serve``` (this is for the first time set up. Next time you do this, just type jekyll serve)
+- Type the addres shown on your command prompt (usually: https://127.0.0.1:4000)
 
 Dalam folder <you blog name> terdapat beberapa file & folder
--folder _post	: untuk menyetorkan file yang akan diposting di blog
--folder _site	: output static web yang dimodifikasi oleh sistem (gausah diapa-apain)
--file config.yml: setting website/blog (bakal banyak diutak-atik disini)
--file gemfile	: file yang berisi informasi tentang dependencies gemfile (semacam extension/plugin)
--file about	: tentang 
--file index	: index
+- folder _post	: untuk menyetorkan file yang akan diposting di blog
+- folder _site	: output static web yang dimodifikasi oleh sistem (gausah diapa-apain)
+- file config.yml: setting website/blog (bakal banyak diutak-atik disini)
+- file gemfile	: file yang berisi informasi tentang dependencies gemfile (semacam extension/plugin)
+- file about	: tentang 
+- file index	: index
 
 3. Frontmatter
 -> adalah informasi yang ditampilkan oleh website/blog
