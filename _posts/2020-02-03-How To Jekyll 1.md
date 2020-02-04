@@ -10,18 +10,18 @@ featured: false
 hidden: false
 ---
 
-#**How to blog with jekyll** part 1/2 <br>
+# **How to blog with jekyll** part 1/2 <br>
 
-##Introduction<br>
+## Introduction<br>
 
-###Jekyll<br>
+### Jekyll<br>
 -What is it?<br>
 Sebuah static site generator yang menggunakan bahasa pemrograman ruby/git (mbuh rareti) dan menggunakan github untuk hosting situs atau blog yang dibuat. <br>
 
 <br>
 <br>
 
--What you need to start a jekyll blog:
+### What you need to start a jekyll blog:
 1. [Github](https://github.com) account 
 - Untuk hosting blog/website yang telah dibuat di text editor
 2. Text editor (Notepad++, Visual Studio, VIM, VSC, dll. pilih satu & donlod sendiri)
@@ -32,8 +32,8 @@ Sebuah static site generator yang menggunakan bahasa pemrograman ruby/git (mbuh 
 <br>
 <br>
 
-###Step by step <br>
-- ####Creating a github account
+### Step by step <br>
+#### Creating a github account
 1. Go to githun
 2. Create account
 3. Create a repository named <your account name>.github.io
@@ -45,7 +45,7 @@ Sebuah static site generator yang menggunakan bahasa pemrograman ruby/git (mbuh 
 <br>
 
 
-- ####Downloading text editor
+#### Downloading text editor
 1. Choose your text editor
 - Notepad++ (Lightweight text editor, notepad with ++ feature)
 - Visual studio code
@@ -61,7 +61,7 @@ Sebuah static site generator yang menggunakan bahasa pemrograman ruby/git (mbuh 
 <br>
 
 
-- ####Downloading git command prompt
+#### Downloading git command prompt
 1. Go to git.smc...
 2. Download
 3. Install
@@ -71,7 +71,7 @@ Sebuah static site generator yang menggunakan bahasa pemrograman ruby/git (mbuh 
 <br>
 <br>
 
-###Getting started<br>
+#### Getting started<br>
 Go to [youtube](https://youtube.com), search "Jekyll tutorial" and play the 19 vid playlist.<br>
 Or read this long summary instead.
 
