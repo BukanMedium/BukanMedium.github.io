@@ -10,11 +10,12 @@ featured: false
 hidden: false
 ---
 
-**How to blog with jekyll** part 1/2
+#**How to blog with jekyll** part 1/2 <br>
 
-###Introduction
-###Jekyll
--What is it?
+##Introduction<br>
+
+###Jekyll<br>
+-What is it?<br>
 Sebuah static site generator yang menggunakan bahasa pemrograman ruby/git (mbuh rareti) dan menggunakan github untuk hosting situs atau blog yang dibuat. <br>
 
 -What you need to start a jekyll blog:
@@ -25,7 +26,7 @@ Sebuah static site generator yang menggunakan bahasa pemrograman ruby/git (mbuh 
 3. Git command prompt
 -Untuk menghubungkan antara text editor & github account (untuk mengupload file lokal yang telah dibuat ke akun github)
 
-###Step by step
+###Step by step <br>
 -Creating a github account
 1. Go to githun
 2. Create account
