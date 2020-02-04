@@ -236,15 +236,17 @@ layout: default
 <br>
 <br>
 
-11. Includes<br>
+11. Includes <br>
 -> header, footer, navigation, dll
 - Buat folder includes pada folder <your blog name>
 - buat header.html
 ```
 {{ content }}
 ```
--pada file layout, tambahkan ```{% include header.html %}```
-
+-pada file layout, tambahkan 
+```
+{% include header.html %}
+```
 <br>
 <br>
 
