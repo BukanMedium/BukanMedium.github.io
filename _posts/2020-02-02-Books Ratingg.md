@@ -7,7 +7,7 @@ tags: []
 image: assets/images/Booksreview.jpg
 description: "Buku yang pernah tak baca"
 featured: false
-hidden: false
+hidden: true
 ---
 
 **Bumi Manusia** by Pramoedya Ananta Toer <br>
