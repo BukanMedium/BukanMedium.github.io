@@ -248,7 +248,7 @@ layout: default
 - pada file layout, tambahkan 
 	
 
-> {% include header.html %}
+> {% include <nama file> %}
 
 
 <br>
