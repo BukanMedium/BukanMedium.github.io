@@ -1,3 +1,15 @@
+---
+layout: post
+title:  "How to Jekyll "
+author: Shlhnj
+categories: [ How To, Jekyll ]
+tags: []
+image: assets/images/Jekyll2.jpg
+description: "Jekyll part 2"
+featured: false
+hidden: false
+---
+
 **How to blog with jekyll** part 1/2
 
 ###Introduction
@@ -122,6 +134,7 @@ defaults:
 	   Values:
 	     Layoout: "Layout yang ingin dijadika default e.g post"
 		title: "judul defaults"
+```
 
 8. Tema <br>
 -Buka file config.yml <br>
@@ -169,6 +182,7 @@ layout: default
 	page.title
 	page.author	    --> yg punya page	
 	site.title
+```
 -variable dapat dilihat di website resmi jekyll
 
 11. Includes
@@ -214,7 +228,7 @@ This is another post
 -Create new folder _data
 -Create new data files eith .yml extension
 -Integrasi ke layout dengan cara
-{{ site.data data name }}
+```{{ site.data data name }}```
 -e.g in layout file 
 ```
 {% for person in site.data people %}
@@ -232,9 +246,11 @@ This is another post
 15. Static file
 -> file that don't have frontmatter
 -Buka file layout
+```
 {% for file in site.static_files %}
 {{file.}}<br>
 {%endfor%}
+```
 
 16. Hosting to github
 -ganti baseul pada cofig.yml dengan url git repository
