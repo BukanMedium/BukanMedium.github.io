@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How To Jekyl 2"
+title:  "How To Jekyll 2"
 author: Shlhnj
 categories: [ Jekyll, How To ]
 tags: []
@@ -10,7 +10,7 @@ featured: false
 hidden: false
 ---
 
-# How TO Jekyll <br>
+# How To Jekyll <br>
 part 2/3
 
 Ini metode yang lebih gampang yaitu dengan cara forking. <br>
