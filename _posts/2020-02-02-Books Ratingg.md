@@ -34,7 +34,7 @@ Novel klasik karangan filsuf perancis ini mengisahkan tentang kehidupan Candide,
 ![Pasar](/assets/images/Pasar.jpg) <br>
 {% include 5star.html %} <br>
 Lengkap. Seru. Unik. Wajib baca. <br>
-<sub> [Click](/assets/doc/PASAR essential.pdf) for important part in this book </sub>
+<sub> [Click](/assets/doc/PASAR Essential.pdf) for important part in this book </sub>
 
 <br>
 <br>
