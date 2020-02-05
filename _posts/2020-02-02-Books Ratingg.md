@@ -33,7 +33,8 @@ Novel klasik karangan filsuf perancis ini mengisahkan tentang kehidupan Candide,
 **Pasar** by Kuntowijoyo <br>
 ![Pasar](/assets/images/Pasar.jpg) <br>
 {% include 5star.html %} <br>
-Lengkap. Seru. Unik. Wajib baca.
+Lengkap. Seru. Unik. Wajib baca. <br>
+[Click](/assets/doc/PASAR essential.pdf) for important quotes in this book
 
 <br>
 <br>
@@ -43,7 +44,8 @@ Lengkap. Seru. Unik. Wajib baca.
 **Count Of Monte Cristo** by Alexndre Dumas <br>
 ![Countofmontecristo](/assets/images/Countofmontecristo.jpg) <br>
 {% include 5star.html %} <br>
-Novel paling seru yang pernah tak baca setelah Pasar karya Kuntowijoyo. Alurnya selalu bikin penasaran. Konfliknya dapet. Endingnya memuaskan. Wajib baca.
+Novel paling seru yang pernah tak baca setelah Pasar karya Kuntowijoyo. Alurnya selalu bikin penasaran. Konfliknya dapet. Endingnya memuaskan. Wajib baca. <br>
+[Click](/assets/doc/Count Of Monte Cristo Essential.pdf) for important quotes in this book
 
 <br>
 <br>
@@ -84,7 +86,8 @@ Gaya bahasanya succint. To the point. Tapi alurnya agak lambat, kadang bikin bos
 **The Subtle Art of Not Giving a Fck** by Mark Manson <br>
 ![Asubtleartofnotgivingafuck.jpg](/assets/images/Asubtleartofnotgivingafuck.jpg) <br>
 {% include 4.75star.html %} <br>
-The Art of Not Giving a F*ck by Mark Manson Buku pengembangan diri dengan cara yang nggak biasa. Mantap.
+The Art of Not Giving a Fck by Mark Manson Buku pengembangan diri dengan cara yang nggak biasa. Mantap. <br>
+[Click](/assets/doc/Subtle Art Of Not Giving Fck Essential.pdf) for important quotes in this book
 
 <br>
 <br>
@@ -106,3 +109,12 @@ Tokyo Ghoul by Shui Ishida Manga paling keren. Hehe. Plotnya gk terduga. Konflik
 {% include 4.75star.html %} <br>
 Novel satire tentang apa jadinya jika Hitler bangkit lagi pada abad ke 21 ini. Lucu, bikin ngakak. Wajib baca !!! 
 Ada juga filmnya dengan judul sama. Remake versi italianya juga ada, judulnya Sono Tornato, bedanya yang italia tokohnya Mussolini.
+
+<br>
+<br>
+<br>
+<br>
+
+**Max Havelaar** by Multatuli
+![Max Havelaar](/assets/images/Maxhavelaar.jpg) <br>
+Ini agak mbingungi Novelnya. Baca sekali gk bakal paham. Tentang gubernur karesidenan lebak banten yang jujur & peduli rakyat.
