@@ -34,7 +34,7 @@ Novel klasik karangan filsuf perancis ini mengisahkan tentang kehidupan Candide,
 ![Pasar](/assets/images/Pasar.jpg) <br>
 {% include 5star.html %} <br>
 Lengkap. Seru. Unik. Wajib baca. <br>
-[Click](/assets/doc/PASAR essential.pdf) for important quotes in this book
+<sub> [Click](/assets/doc/PASAR essential.pdf) for important part in this book </sub>
 
 <br>
 <br>
@@ -45,7 +45,7 @@ Lengkap. Seru. Unik. Wajib baca. <br>
 ![Countofmontecristo](/assets/images/Countofmontecristo.jpg) <br>
 {% include 5star.html %} <br>
 Novel paling seru yang pernah tak baca setelah Pasar karya Kuntowijoyo. Alurnya selalu bikin penasaran. Konfliknya dapet. Endingnya memuaskan. Wajib baca. <br>
-[Click](/assets/doc/Count Of Monte Cristo Essential.pdf) for important quotes in this book
+<sub> [Click](/assets/doc/Count Of Monte Cristo Essential.pdf) for important part in this book </sub>
 
 <br>
 <br>
@@ -87,7 +87,7 @@ Gaya bahasanya succint. To the point. Tapi alurnya agak lambat, kadang bikin bos
 ![Asubtleartofnotgivingafuck.jpg](/assets/images/Asubtleartofnotgivingafuck.jpg) <br>
 {% include 4.75star.html %} <br>
 The Art of Not Giving a Fck by Mark Manson Buku pengembangan diri dengan cara yang nggak biasa. Mantap. <br>
-[Click](/assets/doc/Subtle Art Of Not Giving Fck Essential.pdf) for important quotes in this book
+<sub> [Click](/assets/doc/Subtle Art Of Not Giving Fck Essential.pdf) for important part in this book </sub>
 
 <br>
 <br>
