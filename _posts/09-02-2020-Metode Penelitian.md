@@ -11,7 +11,7 @@ hidden: false
 ---
 
 
-##A. Pengertian Metode Penelitian <br>
+## A. Pengertian Metode Penelitian <br>
 Metode Penelitian:
 - Cara ilmiah untuk mendapatkan data dengan tujuan dan kegunaan tertentu. <br>
 
@@ -23,8 +23,8 @@ Metode Penelitian:
 Data yang diperoleh melalui penelitian itu adalah data empiis (teramati yang mempunyai kriteria tertentu yaitu **valid.** <br>
 	**Valid:** Menunjukkan derajat ketepatan antara data yang sesungguhnya terjadi pada obyek dengan data yang dapat dikumpulkan oleh peneliti. <br>
 >Cth: 100 orang dilaporkan jauh diatas atau dibawah itu/ suatu yang berwarna merah dikatakan berwarna biru.<br>
-		**Validitas:** Dapat diuji dengan pengujian reliabilitas dan obyektivitas.<br>
-		**Reliabel:** Berkenaaan dengan derajat konsistensi(keajegan) data dalam interval terntentu.<br>
+**Validitas:** Dapat diuji dengan pengujian reliabilitas dan obyektivitas.<br>
+**Reliabel:** Berkenaaan dengan derajat konsistensi(keajegan) data dalam interval terntentu.<br>
 >Cth: Misal, hari ini sumber sumber data mengatakn demonstran berjumlah 100 orang, keesokan harinya jika ditanya jawabannya tetap 100 orang.<br>
 		**Obyektivitas:** Berkenaan dengan interpersonal agreement (kesepakatan banyak orang).<br>
 >Cth: Banyak orang yang mengatakan bahwa demonstran berjumlah 100 orang, maka data tersebut adalah data objektif.<br>
@@ -81,28 +81,28 @@ R&D: Eksperimen, survey, & kualitatif.
 	3. Karakteristik penelitian
 
 
-Aksioma dasar		|Metode kuantitatif			|Metode kualitatif		|
-------------------------|---------------------------------------|-------------------------------|
-Sifat realitas		|Dapat diklasifikasi, konkrit, 		|Ganda, holistik, dinamis,	|
-			|teramati, terukur			|hasil konstruksi dam pemahaman.|
-------------------------|---------------------------------------|-------------------------------|
-			|					|				|
-Hubungan peneliti 	|Independen, Supaya			|Interaktif dengan sunber data	|
-dengan yang diteliti	|Terbangun obyektivitas			|Supaya memperoleh makna	|
-------------------------|---------------------------------------|-------------------------------|
-			|					|				|
-Hubungan variable	|Sebab-akibat (kausal),			|Timbal balik/interaktif,	|	
-			|Satu arah				|(dua arah)			|
-------------------------|---------------------------------------|-------------------------------|
-			|					|				|
-Kemungkinan		|Cenderung membuat generalisasi		|Transferability (hanya mungkin |
-generalisasi		|					|dalam ikatan konteks dan waktu	|
-------------------------|---------------------------------------|-------------------------------|
-			|					|				|
-Peranan nilai		|Cenderung bebas nilai 			|Terikat nilai-nilai yang dibawa|
-			|					|yang dibawa peneliti dan sumber|
-			|					|data 				|
-------------------------|---------------------------------------|-------------------------------|
+|Aksioma dasar		|Metode kuantitatif			|Metode kualitatif		|
+|-----------------------|---------------------------------------|-------------------------------|
+|Sifat realitas		|Dapat diklasifikasi, konkrit, 		|Ganda, holistik, dinamis,	|
+|			|teramati, terukur			|hasil konstruksi dam pemahaman.|
+|-----------------------|---------------------------------------|-------------------------------|
+|			|					|				|
+|Hubungan peneliti 	|Independen, Supaya			|Interaktif dengan sunber data	|
+|dengan yang diteliti	|Terbangun obyektivitas			|Supaya memperoleh makna	|
+|-----------------------|---------------------------------------|-------------------------------|
+|			|					|				|
+|Hubungan variable	|Sebab-akibat (kausal),			|Timbal balik/interaktif,	|	
+|			|Satu arah				|(dua arah)			|
+|-----------------------|---------------------------------------|-------------------------------|
+|			|					|				|
+|Kemungkinan		|Cenderung membuat generalisasi		|Transferability (hanya mungkin |
+|generalisasi		|					|dalam ikatan konteks dan waktu	|
+|-----------------------|---------------------------------------|-------------------------------|
+|			|					|				|
+|Peranan nilai		|Cenderung bebas nilai 			|Terikat nilai-nilai yang dibawa|
+|			|					|yang dibawa peneliti dan sumber|
+|			|					|data 				|
+|-----------------------|---------------------------------------|-------------------------------|
 
 <br>
 <br>
@@ -112,12 +112,14 @@ Penelitian kuantitatif dapat meneliti hanya pada variable tertentu saja.
 Penelitian kualitatif tidak dapat dipisah pisa, karena bersifat holistik (mennyeluruh) 
 dan tidak hanya pada yang tampak saja, akan tetapi juga nilai-nilai, konstruksi pemikiran, pemahaman peneliti, dll.
 
+<br>
 
 **Hubungan peneiti & objek**
 Pada penelitian kuantitatif, kebenaran berada diluar peneliti (objektif).
 Pada penelitian kualitatif, kebenaran berada pada peneliti karena dalam mengumpulkan data, 
 peneliti berperan sebagai human instrument (subjektif)
 
+<br>
 
 **Hubungan antar variabel**
 Variabel dalam penelitian kuantitatif bersifat sebab-akibat (kausalitas).
@@ -128,6 +130,7 @@ juga bisa bertindak sebagai akibat, dan sebaliknya.
 >Contoh: Hubungan anatara micin dan kecerdasan. Jka orang terlalu banyak menggunakan micin maka akan semakin bodoh, 
 san sebaliknya, semakin bodoh orang tersebut, semakin banyak ia menggunakan micin.
 
+<br>
 
 **Kemungkinan generalisasi**
 Penelitian kuatitatif lebih menekankan pada keluasan data dengan variabel yang terbatas, biasanya menggunakan random sampling/probability sampling.
@@ -136,6 +139,7 @@ Selanjutnya dibuat kesimpulan dari data yang telah didapat. Dari umum menuju khu
 Sedangkan pada penelitian kualitatif tidak ada generalisasi, namun transferanility, yaitu daya pemindahan (hasil penelitian dapat diterapkan di tempat lain
 pada kondisi dan keadaan yang sama saat dilakukan penelitian).
 
+<br>
 
 **Peranan nilai**
 Penelitian kuantitatif tidak terpengaruh oleh nilai-nilai yang dibawa oleh peneliti seperti latar belakang, dll, karena peneliti tidak berinteraksi dengan sumber data.
@@ -143,6 +147,7 @@ Penelitian kuantitatif tidak terpengaruh oleh nilai-nilai yang dibawa oleh penel
 Penelitian kualitatif sangat terpengaruh dengan nilai-nilai yang dibawa peneliti karena peneliti adalah instrumen atau alat yang digunakan untuk meneliti. Sehinggan antara
 penelitian yang dilakukan oleh seseorang mungkin hasilnya akan beda jika dilakukan oleh orang lain.
 
+<br>
 
 **
 
