@@ -11,47 +11,50 @@ hidden: false
 ---
 
 
-A. Pengertian Metode Penelitian
+A. Pengertian Metode Penelitian <br>
 Metode Penelitian:
-- Cara ilmiah untuk mendapatkan data dengan tujuan dan kegunaan tertentu. 
+- Cara ilmiah untuk mendapatkan data dengan tujuan dan kegunaan tertentu. <br>
 
-	Cara ilmiah: berarti kegiatan penelitian itu didasarkan pada ciri-ciri keilmuan, yaitu rasional, empiris, dan sistematis.
-	Rasional: Kegiatan penelitian itu dilakukan dengan cara-cara yang masuk akal, sehingga terjangkau oleh penalaran manusia.
-	Empiris: Berarti cara-cara yang dilakukan itu dapat diamati oleh indera manusia, sehingga oranglain dapat mengamati dan mengatahui cara-cara yang digunakan.
+	Cara ilmiah: berarti kegiatan penelitian itu didasarkan pada ciri-ciri keilmuan, yaitu **rasional, empiris, dan sistematis.** <br>
+	Rasional: Kegiatan penelitian itu dilakukan dengan cara-cara yang masuk akal, sehingga terjangkau oleh penalaran manusia. <br>
+	Empiris: Berarti cara-cara yang dilakukan itu dapat diamati oleh indera manusia, sehingga oranglain dapat mengamati dan mengatahui cara-cara yang digunakan. <br>
 	Sistematis: Artinya proses yang digunakan dalam penelitian itu menggunakan langkah-langkah tertentu yang bersifat logis.
 
-Data yang diperoleh melalui penelitian itu adalah data empiis (teramati yang mempunyai kriteria tertentu yaitu valid.
-	Valid: Menunjukkan derajat ketepatan antara data yang sesungguhnya terjadi pada obyek dengan data yang dapat dikumpulkan oleh peneliti.
-Cth: 100 orang dilaporkan jauh diatas atau dibawah itu/ suatu yang berwarna merah dikatakan berwarna biru.
-		Validitas: Dapat diuji dengan pengujian reliabilitas dan obyektivitas.
-		Reliabel: Berkenaaan dengan derajat konsistensi(keajegan) data dalam interval terntentu.
-Cth: Misal, hari ini sumber sumber data mengatakn demonstran berjumlah 100 orang, keesokan harinya jika ditanya jawabannya tetap 100 orang.
-		Obyektivitas: Berkenaan dengan interpersonal agreement (kesepakatan banyak orang).
-Cth: Banyak orang yang mengatakan bahwa demonstran berjumlah 100 orang, maka data tersebut adalah data objektif.
+Data yang diperoleh melalui penelitian itu adalah data empiis (teramati yang mempunyai kriteria tertentu yaitu **valid.** <br>
+	Valid: Menunjukkan derajat ketepatan antara data yang sesungguhnya terjadi pada obyek dengan data yang dapat dikumpulkan oleh peneliti. <br>
+Cth: 100 orang dilaporkan jauh diatas atau dibawah itu/ suatu yang berwarna merah dikatakan berwarna biru.<br>
+		Validitas: Dapat diuji dengan pengujian reliabilitas dan obyektivitas.<br>
+		Reliabel: Berkenaaan dengan derajat konsistensi(keajegan) data dalam interval terntentu.<br>
+Cth: Misal, hari ini sumber sumber data mengatakn demonstran berjumlah 100 orang, keesokan harinya jika ditanya jawabannya tetap 100 orang.<br>
+		Obyektivitas: Berkenaan dengan interpersonal agreement (kesepakatan banyak orang).<br>
+Cth: Banyak orang yang mengatakan bahwa demonstran berjumlah 100 orang, maka data tersebut adalah data objektif.<br>
 
-N.B: 
-- Data yang reliabel belum tentu valid (kebohongan yang konsisten).
-- Data yang objektif belum tentu valid (bandwagon/ common ignorance).
+N.B: <br>
+- Data yang reliabel belum tentu valid (kebohongan yang konsisten).<br>
+- Data yang objektif belum tentu valid (bandwagon/ common ignorance).<br>
 
+<br>
+<br>
 
+Tujuan penelitian secara umum:<br>
+1. Penemuan: berarti data yang diperoleh dari penelitian itu adalah data yang betul-betul baru yang sebelumnya belum pernah diketahui.<br>
+Cth: Menemukan cara yang efektif untuk .....<br>
+2. Pembuktian: Berarti data yang diperoleh itu digunakan utnuk membuktikan adakanya keragu-raguan terhadap informasi atau pengetahuan tertentu.<br>
+Cth: Membuktikan bahwa micin berpengaruh terhadap kecerdasan otak<br>
+3. Pengembangan: Berarti memperdalam dan memperluas pengetahuan yang telah ada.<br>
+Cth: Pengembangan teknik feynman dalam kegiatan belajar mengajar dalam pendidikan dasar.<br>
 
-Tujuan penelitian secara umum:
-1. Penemuan: berarti data yang diperoleh dari penelitian itu adalah data yang betul-betul baru yang sebelumnya belum pernah diketahui.
-Cth: Menemukan cara yang efektif untuk .....
-2. Pembuktian: Berarti data yang diperoleh itu digunakan utnuk membuktikan adakanya keragu-raguan terhadap informasi atau pengetahuan tertentu.
-Cth: Membuktikan bahwa micin berpengaruh terhadap kecerdasan otak
-3. Pengembangan: Berarti memperdalam dan memperluas pengetahuan yang telah ada.
-Cth: Pengembangan teknik feynman dalam kegiatan belajar mengajar dalam pendidikan dasar.
+<br>
 
-Hasil penelitian:
-1. Memahami: Memperjelas suatu masalah atau informasi yang tidak diketahuidan selanjutnya menjadi tahu.
-Cth: Penyebab mudahnya hoax menyebar di Indonesia
-2. Memecahkan masalah: Meminimalkan atau menghilangkan masalah.
-Cth: Cara yang efektif untuk memeberantas korupsi
-3. Mengantisipasi masalah: Mengupayakan agar masalah tidak terjadi
-Cth: Cara yang efektif untuk mencegah penyebaran hoax
+Hasil penelitian:<br>
+1. Memahami: Memperjelas suatu masalah atau informasi yang tidak diketahuidan selanjutnya menjadi tahu.<br>
+Cth: Penyebab mudahnya hoax menyebar di Indonesia<br>
+2. Memecahkan masalah: Meminimalkan atau menghilangkan masalah.<br>
+Cth: Cara yang efektif untuk memeberantas korupsi<br>
+3. Mengantisipasi masalah: Mengupayakan agar masalah tidak terjadi<br>
+Cth: Cara yang efektif untuk mencegah penyebaran hoax<br>
 
-
+<br>
 B. Jenis-jenis metode penelitian
 - Berdasarkan tujuan :
 	1. Penelitian dasar (to discover new knowledge about fundamental phenomena)
