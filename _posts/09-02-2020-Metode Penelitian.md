@@ -55,11 +55,11 @@ N.B: <br>
 >Cth: Cara yang efektif untuk mencegah penyebaran hoax<br>
 
 <br>
-## B. Jenis-jenis metode penelitian
-- Berdasarkan tujuan :
-	1. Penelitian dasar (to discover new knowledge about fundamental phenomena)
-	2. Penelitian terapan (menemukan pengetahuan yang secara praktis dapat diaplikasikan)
-	3. Penelitian dan pengembangan (Jembatan antara penelitian dasar dan terapan, one way to bridge the gap between research and practice)
+## B. Jenis-jenis metode penelitian <br>
+- Berdasarkan tujuan: <br>
+	1. Penelitian dasar (to discover new knowledge about fundamental phenomena) <br>
+	2. Penelitian terapan (menemukan pengetahuan yang secara praktis dapat diaplikasikan) <br>
+	3. Penelitian dan pengembangan (Jembatan antara penelitian dasar dan terapan, one way to bridge the gap between research and practice) <br>
 
 - Berdasakan tingkat kealamiahan:
 	1. Penelitian Eksperimen 
