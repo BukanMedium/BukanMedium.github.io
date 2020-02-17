@@ -23,7 +23,9 @@ Metode Penelitian:
 Data yang diperoleh melalui penelitian itu adalah data empiis (teramati yang mempunyai kriteria tertentu yaitu **valid.** <br>
 	**Valid:** Menunjukkan derajat ketepatan antara data yang sesungguhnya terjadi pada obyek dengan data yang dapat dikumpulkan oleh peneliti. <br>
 >Cth: 100 orang dilaporkan jauh diatas atau dibawah itu/ suatu yang berwarna merah dikatakan berwarna biru.<br>
+<br>
 **Validitas:** Dapat diuji dengan pengujian reliabilitas dan obyektivitas.<br>
+
 **Reliabel:** Berkenaaan dengan derajat konsistensi(keajegan) data dalam interval terntentu.<br>
 >Cth: Misal, hari ini sumber sumber data mengatakn demonstran berjumlah 100 orang, keesokan harinya jika ditanya jawabannya tetap 100 orang.<br>
 		**Obyektivitas:** Berkenaan dengan interpersonal agreement (kesepakatan banyak orang).<br>
@@ -55,7 +57,9 @@ N.B: <br>
 >Cth: Cara yang efektif untuk mencegah penyebaran hoax<br>
 
 <br>
+
 ## B. Jenis-jenis metode penelitian <br>
+
 - Berdasarkan tujuan: <br>
 	1. Penelitian dasar (to discover new knowledge about fundamental phenomena) <br>
 	2. Penelitian terapan (menemukan pengetahuan yang secara praktis dapat diaplikasikan) <br>
@@ -74,7 +78,10 @@ Basic research: pada umumnya menggunakan eksperimen dan kualitatif
 Applied research: Eksperimen & suervey
 R&D: Eksperimen, survey, & kualitatif.
 
+<br>
+
 ## C. Perbedaan penelitian kuantitatif dan kualitatif
+
 - Perbedaannya dapat dibagi menjadi 3, yaitu:
 	1. Aksioma (pandangan dasar)
 	2. Proses penelitian
