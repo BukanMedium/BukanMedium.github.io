@@ -36,7 +36,7 @@ N.B: <br>
 <br>
 <br>
 
-Tujuan penelitian secara umum:<br>
+**Tujuan penelitian secara umum:**<br>
 1. Penemuan: berarti data yang diperoleh dari penelitian itu adalah data yang betul-betul baru yang sebelumnya belum pernah diketahui.<br>
 >Cth: Menemukan cara yang efektif untuk .....<br>
 2. Pembuktian: Berarti data yang diperoleh itu digunakan utnuk membuktikan adakanya keragu-raguan terhadap informasi atau pengetahuan tertentu.<br>
@@ -46,7 +46,7 @@ Tujuan penelitian secara umum:<br>
 
 <br>
 
-Hasil penelitian:<br>
+**Hasil penelitian:**<br>
 1. Memahami: Memperjelas suatu masalah atau informasi yang tidak diketahuidan selanjutnya menjadi tahu.<br>
 >Cth: Penyebab mudahnya hoax menyebar di Indonesia<br>
 2. Memecahkan masalah: Meminimalkan atau menghilangkan masalah.<br>
@@ -55,7 +55,7 @@ Hasil penelitian:<br>
 >Cth: Cara yang efektif untuk mencegah penyebaran hoax<br>
 
 <br>
-##B. Jenis-jenis metode penelitian
+## B. Jenis-jenis metode penelitian
 - Berdasarkan tujuan :
 	1. Penelitian dasar (to discover new knowledge about fundamental phenomena)
 	2. Penelitian terapan (menemukan pengetahuan yang secara praktis dapat diaplikasikan)
@@ -74,7 +74,7 @@ Basic research: pada umumnya menggunakan eksperimen dan kualitatif
 Applied research: Eksperimen & suervey
 R&D: Eksperimen, survey, & kualitatif.
 
-##C. Perbedaan penelitian kuantitatif dan kualitatif
+## C. Perbedaan penelitian kuantitatif dan kualitatif
 - Perbedaannya dapat dibagi menjadi 3, yaitu:
 	1. Aksioma (pandangan dasar)
 	2. Proses penelitian
@@ -86,19 +86,15 @@ R&D: Eksperimen, survey, & kualitatif.
 |Sifat realitas		|Dapat diklasifikasi, konkrit, 		|Ganda, holistik, dinamis,	|
 |			|teramati, terukur			|hasil konstruksi dam pemahaman.|
 |-----------------------|---------------------------------------|-------------------------------|
-|			|					|				|
 |Hubungan peneliti 	|Independen, Supaya			|Interaktif dengan sunber data	|
 |dengan yang diteliti	|Terbangun obyektivitas			|Supaya memperoleh makna	|
 |-----------------------|---------------------------------------|-------------------------------|
-|			|					|				|
 |Hubungan variable	|Sebab-akibat (kausal),			|Timbal balik/interaktif,	|	
 |			|Satu arah				|(dua arah)			|
 |-----------------------|---------------------------------------|-------------------------------|
-|			|					|				|
 |Kemungkinan		|Cenderung membuat generalisasi		|Transferability (hanya mungkin |
 |generalisasi		|					|dalam ikatan konteks dan waktu	|
 |-----------------------|---------------------------------------|-------------------------------|
-|			|					|				|
 |Peranan nilai		|Cenderung bebas nilai 			|Terikat nilai-nilai yang dibawa|
 |			|					|yang dibawa peneliti dan sumber|
 |			|					|data 				|
@@ -107,21 +103,21 @@ R&D: Eksperimen, survey, & kualitatif.
 <br>
 <br>
 
-**realitas**
+**Realitas** <br>
 Penelitian kuantitatif dapat meneliti hanya pada variable tertentu saja.
 Penelitian kualitatif tidak dapat dipisah pisa, karena bersifat holistik (mennyeluruh) 
 dan tidak hanya pada yang tampak saja, akan tetapi juga nilai-nilai, konstruksi pemikiran, pemahaman peneliti, dll.
 
 <br>
 
-**Hubungan peneiti & objek**
+**Hubungan peneiti & objek** <br>
 Pada penelitian kuantitatif, kebenaran berada diluar peneliti (objektif).
 Pada penelitian kualitatif, kebenaran berada pada peneliti karena dalam mengumpulkan data, 
 peneliti berperan sebagai human instrument (subjektif)
 
 <br>
 
-**Hubungan antar variabel**
+**Hubungan antar variabel** <br>
 Variabel dalam penelitian kuantitatif bersifat sebab-akibat (kausalitas).
 Contoh: Pengaruh micin (sebab) terhadap kecerdasan otak (akibat)
 
@@ -132,20 +128,18 @@ san sebaliknya, semakin bodoh orang tersebut, semakin banyak ia menggunakan mici
 
 <br>
 
-**Kemungkinan generalisasi**
-Penelitian kuatitatif lebih menekankan pada keluasan data dengan variabel yang terbatas, biasanya menggunakan random sampling/probability sampling.
-Selanjutnya dibuat kesimpulan dari data yang telah didapat. Dari umum menuju khusus (generalisasi)
+**Kemungkinan generalisasi** <br>
+Penelitian kuatitatif lebih menekankan pada keluasan data dengan variabel yang terbatas, biasanya menggunakan random sampling/probability sampling.<br>
+Selanjutnya dibuat kesimpulan dari data yang telah didapat. Dari umum menuju khusus (generalisasi)<br>
 
-Sedangkan pada penelitian kualitatif tidak ada generalisasi, namun transferanility, yaitu daya pemindahan (hasil penelitian dapat diterapkan di tempat lain
-pada kondisi dan keadaan yang sama saat dilakukan penelitian).
+Sedangkan pada penelitian kualitatif tidak ada generalisasi, namun transferanility, yaitu daya pemindahan (hasil penelitian dapat diterapkan di tempat lain pada kondisi dan keadaan yang sama saat dilakukan penelitian). <br>
 
 <br>
 
-**Peranan nilai**
-Penelitian kuantitatif tidak terpengaruh oleh nilai-nilai yang dibawa oleh peneliti seperti latar belakang, dll, karena peneliti tidak berinteraksi dengan sumber data.
+**Peranan nilai** <br>
+Penelitian kuantitatif tidak terpengaruh oleh nilai-nilai yang dibawa oleh peneliti seperti latar belakang, dll, karena peneliti tidak berinteraksi dengan sumber data. <br>
 
-Penelitian kualitatif sangat terpengaruh dengan nilai-nilai yang dibawa peneliti karena peneliti adalah instrumen atau alat yang digunakan untuk meneliti. Sehinggan antara
-penelitian yang dilakukan oleh seseorang mungkin hasilnya akan beda jika dilakukan oleh orang lain.
+Penelitian kualitatif sangat terpengaruh dengan nilai-nilai yang dibawa peneliti karena peneliti adalah instrumen atau alat yang digunakan untuk meneliti. Sehinggan antara penelitian yang dilakukan oleh seseorang mungkin hasilnya akan beda jika dilakukan oleh orang lain.
 
 <br>
 
