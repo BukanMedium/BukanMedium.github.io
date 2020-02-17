@@ -24,11 +24,13 @@ Data yang diperoleh melalui penelitian itu adalah data empiis (teramati yang mem
 	**Valid:** Menunjukkan derajat ketepatan antara data yang sesungguhnya terjadi pada obyek dengan data yang dapat dikumpulkan oleh peneliti. <br>
 >Cth: 100 orang dilaporkan jauh diatas atau dibawah itu/ suatu yang berwarna merah dikatakan berwarna biru.<br>
 <br>
+
 **Validitas:** Dapat diuji dengan pengujian reliabilitas dan obyektivitas.<br>
 
 **Reliabel:** Berkenaaan dengan derajat konsistensi(keajegan) data dalam interval terntentu.<br>
 >Cth: Misal, hari ini sumber sumber data mengatakn demonstran berjumlah 100 orang, keesokan harinya jika ditanya jawabannya tetap 100 orang.<br>
-		**Obyektivitas:** Berkenaan dengan interpersonal agreement (kesepakatan banyak orang).<br>
+
+**Obyektivitas:** Berkenaan dengan interpersonal agreement (kesepakatan banyak orang).<br>
 >Cth: Banyak orang yang mengatakan bahwa demonstran berjumlah 100 orang, maka data tersebut adalah data objektif.<br>
 
 N.B: <br>
