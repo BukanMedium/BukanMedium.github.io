@@ -4,7 +4,7 @@ title:  "How to Jekyll "
 author: Shlhnj
 categories: [ How To, Jekyll ]
 tags: []
-image: assets/images/Jekyll2.jpg
+image: assets/images/Jekyll1.jpg
 description: "Jekyll part 2"
 featured: false
 hidden: false
