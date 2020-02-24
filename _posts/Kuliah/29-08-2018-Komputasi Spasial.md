@@ -42,12 +42,14 @@ Peta tematik  -> Menyajikan tema tertentu
 - Active RS: 
 
 RS: cara mengumpulkan informasi tanpa menyentuh secara langsung
+
 <br>
-Resolusi : <br>
-- Spasial: gambar
-- Spectral: gelombang
-- Temporal: waktu
-- Rasiometrik:
+
+-Resolusi : <br>
+  - Spasial: gambar
+  - Spectral: gelombang
+  - Temporal: waktu
+  - Rasiometrik:
            
 <br>
 
