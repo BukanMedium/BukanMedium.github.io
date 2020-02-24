@@ -24,10 +24,10 @@ Peta tematik  -> Menyajikan tema tertentu
 
 <br>
 
-Pennulisan nama geografi:<br>
-- wilayah administrasi biasanya berwarna hitam
-- Reief= italic hitam
-- perairan= italic biru
+-Pennulisan nama geografi:
+  - wilayah administrasi biasanya berwarna hitam
+  - Reief= italic hitam
+  - perairan= italic biru
                           
 <br>
 <br>
@@ -50,8 +50,9 @@ Resolusi : <br>
 - Rasiometrik:
            
 <br>
-Type: - Aeerial photos
-      - Multi spectral
+- Type: 
+  - Aeerial photos
+  - Multi spectral
       
 <br>
 <br>
