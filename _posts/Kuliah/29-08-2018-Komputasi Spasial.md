@@ -24,9 +24,10 @@ Peta tematik  -> Menyajikan tema tertentu
 
 <br>
 
-Pennulisan nama geografi: - wilayah administrasi biasanya berwarna hitam
-                          - Reief= italic hitam
-                          - perairan= italic biru
+Pennulisan nama geografi:<br>
+- wilayah administrasi biasanya berwarna hitam
+- Reief= italic hitam
+- perairan= italic biru
                           
 <br>
 <br>
@@ -42,10 +43,11 @@ Pennulisan nama geografi: - wilayah administrasi biasanya berwarna hitam
 
 RS: cara mengumpulkan informasi tanpa menyentuh secara langsung
 <br>
-Resolusi : - Spasial: gambar
-           - Spectral: gelombang
-           - Temporal: waktu
-           - Rasiometrik:
+Resolusi : <br>
+- Spasial: gambar
+- Spectral: gelombang
+- Temporal: waktu
+- Rasiometrik:
            
 <br>
 Type: - Aeerial photos
@@ -59,9 +61,10 @@ Type: - Aeerial photos
 <br>
 
 - Temporal:
-  - Resolusi temporal: - Tinggi= < 24 jam -3 hari
-                       - Sedang= 4-16 hari
-                       - Rendah= > 16 hari
+  - Resolusi temporal: 
+    - Tinggi= < 24 jam -3 hari
+    - Sedang= 4-16 hari
+    - Rendah= > 16 hari
                        
 <br>
 
