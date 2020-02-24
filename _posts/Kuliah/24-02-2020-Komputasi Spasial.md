@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "KOmputasi Spasial"
+title:  "Komputasi Spasial"
 author: Shlhnj
 categories: [ Kuliah, Summary ]
 tags: []
