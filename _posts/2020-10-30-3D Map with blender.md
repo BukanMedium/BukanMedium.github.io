@@ -40,3 +40,12 @@ hidden: false
 9.....
 
 10. Mantap
+
+Bahan bacaan:
+https://wesleybarrgis.wordpress.com/2020/05/19/how-to-make-a-3d-map-in-blender/
+
+https://somethingaboutmaps.wordpress.com/blender-relief-tutorial-getting-set-up/
+
+https://youtu.be/_W_wN0gZJl0
+
+https://youtu.be/CFSYbGVJO54
